@@ -1,0 +1,12 @@
+[18624:28928:0215/200848.668:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18624:28928:0215/200848.680:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[18624:31748:0215/200848.740:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18624:28928:0215/200848.781:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18624:28928:0215/200852.187:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[28708:32864:0215/200853.782:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-062A79BAC86A29F562645FA98894B284 will be ignored
+[18624:28928:0215/200858.242:ERROR:device_event_log_impl.cc(196)] [20:08:58.229] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[18624:28928:0215/211508.062:ERROR:device_event_log_impl.cc(196)] [21:15:07.865] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[18624:28928:0215/220144.657:ERROR:device_event_log_impl.cc(196)] [22:01:44.637] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[18624:28928:0215/220538.347:ERROR:device_event_log_impl.cc(196)] [22:05:38.096] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[18624:28928:0215/220558.345:ERROR:device_event_log_impl.cc(196)] [22:05:58.336] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[18624:28928:0215/222842.070:ERROR:device_event_log_impl.cc(196)] [22:28:42.051] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
