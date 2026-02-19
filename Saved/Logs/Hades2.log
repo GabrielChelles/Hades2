@@ -9829,3 +9829,350 @@ Samplers Used: 0
 [2026.02.19-00.06.53:655][ 85]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14551.476562
 [2026.02.19-00.06.54:658][ 88]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.19-00.06.54:658][ 88]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14552.143555, Update Interval: 300.269165
+[2026.02.19-00.12.54:510][459]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14912.322266
+[2026.02.19-00.12.55:512][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.12.55:512][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14912.993164, Update Interval: 306.203796
+[2026.02.19-00.15.53:602][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.19-00.15.53:605][996]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.039
+[2026.02.19-00.18.00:656][482]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LU28R55 (NVIDIA High Definition Audio), InstanceID=1
+[2026.02.19-00.18.00:656][482]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{4f006f80-6dc3-4ce3-94f2-ca6724f9ca94}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.19-00.18.00:791][483]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: 0x88880001 (UNKNOWN)
+[2026.02.19-00.18.00:977][483]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{4f006f80-6dc3-4ce3-94f2-ca6724f9ca94}]
+[2026.02.19-00.18.00:977][483]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.19-00.18.00:977][483]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.19-00.18.01:317][484]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{4f006f80-6dc3-4ce3-94f2-ca6724f9ca94}, Name=LU28R55 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=25.29
+[2026.02.19-00.18.01:317][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.19-00.18.01:317][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.19-00.18.01:321][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.19-00.18.01:691][486]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Alto-falantes (2- Logitech G935/G933s Gaming Headset), InstanceID=1
+[2026.02.19-00.18.01:691][486]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{c91b05a2-0b94-4ce9-a2f8-e818ff19d206}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.19-00.18.01:981][486]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{c91b05a2-0b94-4ce9-a2f8-e818ff19d206}]
+[2026.02.19-00.18.01:981][486]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.19-00.18.01:981][486]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.19-00.18.02:316][487]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{c91b05a2-0b94-4ce9-a2f8-e818ff19d206}, Name=Alto-falantes (2- Logitech G935/G933s Gaming Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=89.31
+[2026.02.19-00.18.02:316][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.19-00.18.02:316][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2026.02.19-00.18.02:319][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.19-00.18.38:658][596]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15256.478516
+[2026.02.19-00.18.39:657][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.18.39:657][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15257.144531, Update Interval: 310.404358
+[2026.02.19-00.24.20:346][621]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LU28R55 (NVIDIA High Definition Audio), InstanceID=1
+[2026.02.19-00.24.20:346][621]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{4f006f80-6dc3-4ce3-94f2-ca6724f9ca94}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.19-00.24.20:375][621]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{4f006f80-6dc3-4ce3-94f2-ca6724f9ca94}]
+[2026.02.19-00.24.20:375][621]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.19-00.24.20:375][621]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.19-00.24.20:710][622]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{4f006f80-6dc3-4ce3-94f2-ca6724f9ca94}, Name=LU28R55 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=51.17
+[2026.02.19-00.24.20:710][622]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.19-00.24.20:710][622]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.19-00.24.20:712][622]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.19-00.24.21:362][624]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Alto-falantes (2- Logitech G935/G933s Gaming Headset), InstanceID=1
+[2026.02.19-00.24.21:362][624]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{c91b05a2-0b94-4ce9-a2f8-e818ff19d206}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.19-00.24.21:421][624]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{c91b05a2-0b94-4ce9-a2f8-e818ff19d206}]
+[2026.02.19-00.24.21:421][624]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.19-00.24.21:421][624]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.19-00.24.21:756][625]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{c91b05a2-0b94-4ce9-a2f8-e818ff19d206}, Name=Alto-falantes (2- Logitech G935/G933s Gaming Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=199.64
+[2026.02.19-00.24.21:756][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.19-00.24.21:756][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2026.02.19-00.24.21:757][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.19-00.24.26:094][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15603.896484
+[2026.02.19-00.24.27:094][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.24.27:094][641]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15604.564453, Update Interval: 325.544006
+[2026.02.19-00.25.42:802][871]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.19-00.25.42:817][871]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.19-00.25.42:817][871]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.02.19-00.25.42:820][871]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 1.484 ms (total: 51.159 ms)
+[2026.02.19-00.25.42:820][871]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.02.19-00.25.42:820][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.19-00.25.42:820][871]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.02.19-00.25.42:830][871]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.19-00.25.42:831][871]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.570 ms (total: 61.355 ms)
+[2026.02.19-00.25.42:831][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011315s)
+[2026.02.19-00.25.42:831][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.011370s)
+[2026.02.19-00.25.42:867][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.02.19-00.25.42:869][871]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.02.19-00.25.42:870][871]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.19-00.25.42:871][871]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.19-00.25.42:871][871]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.19-00.25.42:871][871]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.19-00.25.42:873][871]LogWorldPartition: Display: WorldPartition initialize took 2.330 ms (total: 831.831 ms)
+[2026.02.19-00.25.42:873][871]LogPlayLevel: PIE: World Init took: (0.005003s)
+[2026.02.19-00.25.42:873][871]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2026.02.19-00.25.42:873][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.19-00.25.42:873][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.19-00.25.42:873][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.19-00.25.42:873][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.19-00.25.42:873][871]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.19-00.25.42:873][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.19-00.25.42:873][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.19-00.25.42:873][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.19-00.25.42:873][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.19-00.25.42:873][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.19-00.25.42:873][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.19-00.25.42:877][871]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.19-00.25.42:885][871]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Alto-falantes (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.25.42:886][871]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microfone (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.25.42:887][871]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Alto-falantes (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.25.42:889][871]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microfone (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.25.42:890][871]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Alto-falantes (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.25.42:891][871]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microfone (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.25.42:905][871]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (2- Logitech G935/G933s Gaming Headset)
+[2026.02.19-00.25.42:905][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.19-00.25.42:905][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.19-00.25.42:905][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.19-00.25.42:906][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2026.02.19-00.25.42:906][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=39
+[2026.02.19-00.25.42:910][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2026.02.19-00.25.42:910][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2026.02.19-00.25.42:910][871]LogInit: FAudioDevice initialized with ID 39.
+[2026.02.19-00.25.42:910][871]LogAudio: Display: Audio Device (ID: 39) registered with world 'Lvl_TopDown'.
+[2026.02.19-00.25.42:910][871]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2026.02.19-00.25.42:939][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.19-00.25.42:940][871]LogLoad: Game class is 'Hades2_BP_C'
+[2026.02.19-00.25.42:943][871]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.02.18-21.25.42
+[2026.02.19-00.25.42:943][871]LogWorld: Bringing up level for play took: 0.003428
+[2026.02.19-00.25.42:947][871]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.02.19-00.25.42:956][871]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.02.19-00.25.42:956][871]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.19-00.25.42:956][871]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.19-00.25.42:971][871]PIE: Server logged in
+[2026.02.19-00.25.42:977][871]PIE: Play in editor total start time 0.159 seconds.
+[2026.02.19-00.25.43:969][872]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.19-00.25.56:322][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.19-00.25.56:322][ 10]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.02.19-00.25.56:322][ 10]LogSlate: Window 'Hades2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.19-00.25.56:582][ 10]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-00.25.56:585][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-00.25.56:585][ 10]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.02.19-00.25.56:586][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.19-00.25.56:596][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-00.25.56:636][ 10]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2026.02.19-00.25.56:636][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=4
+[2026.02.19-00.25.56:639][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=2
+[2026.02.19-00.25.56:651][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.02.19-00.25.56:701][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.02.19-00.26.08:817][713]LogBlueprint: Compiling Blueprint '/Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP.CardBoon_WBP'
+[2026.02.19-00.26.08:935][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.02.19-00.26.08:981][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-00.26.09:024][713]LogFileHelpers: Saving Package: /Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP
+[2026.02.19-00.26.09:024][713]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP] ([2] browsable assets)...
+[2026.02.19-00.26.09:030][713]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP.CardBoon_WBP]
+[2026.02.19-00.26.09:030][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP]
+[2026.02.19-00.26.09:129][713]LogSavePackage: Moving output files for package: /Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP
+[2026.02.19-00.26.09:130][713]LogSavePackage: Moving '../../../../../../Users/Gabriel/OneDrive/Desktop/UI Jogos/Meus projetos/Hades2-GitVersion/Hades2/Saved/CardBoon_WBP61B5D4114AA2D149FA8B509DE7D1AD0D.tmp' to '../../../../../../Users/Gabriel/OneDrive/Desktop/UI Jogos/Meus projetos/Hades2-GitVersion/Hades2/Content/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP.uasset'
+[2026.02.19-00.26.09:157][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.836 ms (total: 10.5 sec)
+[2026.02.19-00.26.09:193][713]LogContentValidation: Enabled validators:
+[2026.02.19-00.26.09:193][713]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-00.26.09:193][713]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-00.26.09:193][713]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-00.26.09:193][713]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-00.26.09:193][713]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-00.26.09:193][713]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-00.26.09:193][713]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.02.19-00.26.09:193][713]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.02.19-00.26.09:195][713]AssetCheck: /Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP Validating asset
+[2026.02.19-00.26.09:195][713]LogContentValidation: Validated asset counts for 2 validators:
+[2026.02.19-00.26.09:195][713]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.02.19-00.26.09:195][713]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.02.19-00.26.10:051][746]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.19-00.26.10:067][746]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.19-00.26.10:067][746]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.02.19-00.26.10:069][746]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 1.579 ms (total: 52.739 ms)
+[2026.02.19-00.26.10:069][746]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.02.19-00.26.10:069][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.19-00.26.10:069][746]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.02.19-00.26.10:079][746]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.19-00.26.10:082][746]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.076 ms (total: 63.432 ms)
+[2026.02.19-00.26.10:082][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012513s)
+[2026.02.19-00.26.10:082][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.012559s)
+[2026.02.19-00.26.10:120][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.02.19-00.26.10:129][746]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.02.19-00.26.10:132][746]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.19-00.26.10:132][746]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.19-00.26.10:132][746]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.19-00.26.10:132][746]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.19-00.26.10:135][746]LogWorldPartition: Display: WorldPartition initialize took 2.588 ms (total: 834.420 ms)
+[2026.02.19-00.26.10:135][746]LogPlayLevel: PIE: World Init took: (0.006371s)
+[2026.02.19-00.26.10:135][746]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2026.02.19-00.26.10:135][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.19-00.26.10:135][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.19-00.26.10:135][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.19-00.26.10:135][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.19-00.26.10:135][746]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.19-00.26.10:135][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.19-00.26.10:135][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.19-00.26.10:135][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.19-00.26.10:135][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.19-00.26.10:135][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.19-00.26.10:135][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.19-00.26.10:137][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.19-00.26.10:147][746]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Alto-falantes (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.26.10:150][746]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microfone (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.26.10:152][746]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Alto-falantes (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.26.10:153][746]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microfone (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.26.10:155][746]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Alto-falantes (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.26.10:157][746]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microfone (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.26.10:173][746]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (2- Logitech G935/G933s Gaming Headset)
+[2026.02.19-00.26.10:174][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.19-00.26.10:174][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.19-00.26.10:174][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.19-00.26.10:174][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2026.02.19-00.26.10:174][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=40
+[2026.02.19-00.26.10:179][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2026.02.19-00.26.10:179][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2026.02.19-00.26.10:179][746]LogInit: FAudioDevice initialized with ID 40.
+[2026.02.19-00.26.10:179][746]LogAudio: Display: Audio Device (ID: 40) registered with world 'Lvl_TopDown'.
+[2026.02.19-00.26.10:179][746]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2026.02.19-00.26.10:213][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.19-00.26.10:213][746]LogLoad: Game class is 'Hades2_BP_C'
+[2026.02.19-00.26.10:217][746]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.02.18-21.26.10
+[2026.02.19-00.26.10:217][746]LogWorld: Bringing up level for play took: 0.004231
+[2026.02.19-00.26.10:222][746]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.02.19-00.26.10:231][746]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.02.19-00.26.10:231][746]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.19-00.26.10:231][746]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.19-00.26.10:243][746]PIE: Server logged in
+[2026.02.19-00.26.10:247][746]PIE: Play in editor total start time 0.181 seconds.
+[2026.02.19-00.26.10:358][747]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.19-00.26.23:662][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.19-00.26.23:662][329]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.02.19-00.26.23:662][329]LogSlate: Window 'Hades2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.19-00.26.23:670][329]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-00.26.23:671][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-00.26.23:671][329]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.02.19-00.26.23:672][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.19-00.26.23:684][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-00.26.23:722][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.19-00.26.23:722][329]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2026.02.19-00.26.23:722][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=4
+[2026.02.19-00.26.23:726][329]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=2
+[2026.02.19-00.26.23:737][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.02.19-00.26.23:781][330]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.02.19-00.26.28:368][639]LogBlueprint: Compiling Blueprint '/Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP.CardBoon_WBP'
+[2026.02.19-00.26.28:494][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.02.19-00.26.28:545][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-00.26.28:585][639]LogFileHelpers: Saving Package: /Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP
+[2026.02.19-00.26.28:585][639]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP] ([2] browsable assets)...
+[2026.02.19-00.26.28:590][639]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP.CardBoon_WBP]
+[2026.02.19-00.26.28:590][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP]
+[2026.02.19-00.26.28:696][639]LogSavePackage: Moving output files for package: /Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP
+[2026.02.19-00.26.28:698][639]LogSavePackage: Moving '../../../../../../Users/Gabriel/OneDrive/Desktop/UI Jogos/Meus projetos/Hades2-GitVersion/Hades2/Saved/CardBoon_WBP7FD42AA84E48A0540AAC98A0E79DDF78.tmp' to '../../../../../../Users/Gabriel/OneDrive/Desktop/UI Jogos/Meus projetos/Hades2-GitVersion/Hades2/Content/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP.uasset'
+[2026.02.19-00.26.28:714][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.949 ms (total: 10.7 sec)
+[2026.02.19-00.26.28:754][639]LogContentValidation: Enabled validators:
+[2026.02.19-00.26.28:754][639]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-00.26.28:754][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-00.26.28:754][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-00.26.28:754][639]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-00.26.28:754][639]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-00.26.28:754][639]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-00.26.28:754][639]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.02.19-00.26.28:754][639]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.02.19-00.26.28:757][639]AssetCheck: /Game/UI/SelectBoon_Screen/Widget/SelectBoon/Components/CardBoon_WBP Validating asset
+[2026.02.19-00.26.28:757][639]LogContentValidation: Validated asset counts for 2 validators:
+[2026.02.19-00.26.28:757][639]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.02.19-00.26.28:757][639]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.02.19-00.27.00:947][299]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/UI/SelectBoon_Screen/Widget/Common/Materials/UI_HoverGradient_M_Inst.UI_HoverGradient_M_Inst
+[2026.02.19-00.27.15:171][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.02.19-00.27.15:248][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.02.19-00.27.15:297][441]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-00.27.15:297][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-00.27.15:350][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.02.19-00.27.16:864][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.02.19-00.27.16:940][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.19-00.27.16:989][581]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-00.27.16:989][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-00.27.17:045][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.02.19-00.27.21:591][956]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.19-00.27.21:605][956]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.19-00.27.21:605][956]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.02.19-00.27.21:606][956]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 1.423 ms (total: 54.162 ms)
+[2026.02.19-00.27.21:607][956]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.02.19-00.27.21:607][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.19-00.27.21:607][956]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.02.19-00.27.21:617][956]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.19-00.27.21:619][956]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.939 ms (total: 65.371 ms)
+[2026.02.19-00.27.21:619][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012399s)
+[2026.02.19-00.27.21:619][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.012459s)
+[2026.02.19-00.27.21:656][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.02.19-00.27.21:658][956]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.02.19-00.27.21:662][956]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.19-00.27.21:662][956]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.19-00.27.21:662][956]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.19-00.27.21:662][956]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.19-00.27.21:665][956]LogWorldPartition: Display: WorldPartition initialize took 2.994 ms (total: 837.414 ms)
+[2026.02.19-00.27.21:665][956]LogPlayLevel: PIE: World Init took: (0.006907s)
+[2026.02.19-00.27.21:665][956]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2026.02.19-00.27.21:665][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.19-00.27.21:665][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.19-00.27.21:665][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.19-00.27.21:665][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.19-00.27.21:665][956]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.19-00.27.21:665][956]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.19-00.27.21:665][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.19-00.27.21:665][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.19-00.27.21:665][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.19-00.27.21:665][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.19-00.27.21:665][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.19-00.27.21:668][956]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.19-00.27.21:677][956]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Alto-falantes (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.27.21:677][956]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microfone (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.27.21:680][956]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Alto-falantes (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.27.21:680][956]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microfone (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.27.21:682][956]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Alto-falantes (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.27.21:683][956]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microfone (2- Logitech G935/G933s Gaming Headset)'
+[2026.02.19-00.27.21:698][956]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (2- Logitech G935/G933s Gaming Headset)
+[2026.02.19-00.27.21:699][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.19-00.27.21:699][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.19-00.27.21:699][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.19-00.27.21:700][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2026.02.19-00.27.21:700][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=41
+[2026.02.19-00.27.21:702][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2026.02.19-00.27.21:702][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2026.02.19-00.27.21:702][956]LogInit: FAudioDevice initialized with ID 41.
+[2026.02.19-00.27.21:702][956]LogAudio: Display: Audio Device (ID: 41) registered with world 'Lvl_TopDown'.
+[2026.02.19-00.27.21:702][956]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2026.02.19-00.27.21:739][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.19-00.27.21:739][956]LogLoad: Game class is 'Hades2_BP_C'
+[2026.02.19-00.27.21:743][956]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.02.18-21.27.21
+[2026.02.19-00.27.21:743][956]LogWorld: Bringing up level for play took: 0.003725
+[2026.02.19-00.27.21:746][956]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2026.02.19-00.27.21:755][956]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.02.19-00.27.21:755][956]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.19-00.27.21:755][956]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.19-00.27.21:766][956]PIE: Server logged in
+[2026.02.19-00.27.21:770][956]PIE: Play in editor total start time 0.165 seconds.
+[2026.02.19-00.27.21:904][957]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.19-00.27.31:132][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.19-00.27.31:133][314]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.02.19-00.27.31:133][314]LogSlate: Window 'Hades2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.19-00.27.31:205][314]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-00.27.31:207][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-00.27.31:207][314]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.02.19-00.27.31:207][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.19-00.27.31:221][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-00.27.31:259][314]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2026.02.19-00.27.31:259][314]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2026.02.19-00.27.31:262][314]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2026.02.19-00.27.31:275][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.02.19-00.27.31:358][315]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2026.02.19-00.27.56:655][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.02.19-00.27.56:660][479]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.038
+[2026.02.19-00.27.56:660][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/SelectBoon_Screen/Widget/Common/Materials/UI_HoverGradient_M_Inst] ([1] browsable assets)...
+[2026.02.19-00.27.56:664][479]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/UI/SelectBoon_Screen/Widget/Common/Materials/UI_HoverGradient_M_Inst.UI_HoverGradient_M_Inst]
+[2026.02.19-00.27.56:664][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/SelectBoon_Screen/Widget/Common/Materials/UI_HoverGradient_M_Inst]
+[2026.02.19-00.27.56:676][479]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/SelectBoon_Screen/Widget/Common/Materials/UI_HoverGradient_M_Inst_Auto8
+[2026.02.19-00.27.56:676][479]LogSavePackage: Moving '../../../../../../Users/Gabriel/OneDrive/Desktop/UI Jogos/Meus projetos/Hades2-GitVersion/Hades2/Saved/UI_HoverGradient_M_Inst_Auto8D5593998439F747C6977A0926FC6329D.tmp' to '../../../../../../Users/Gabriel/OneDrive/Desktop/UI Jogos/Meus projetos/Hades2-GitVersion/Hades2/Saved/Autosaves/Game/UI/SelectBoon_Screen/Widget/Common/Materials/UI_HoverGradient_M_Inst_Auto8.uasset'
+[2026.02.19-00.27.56:679][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/SelectBoon_Screen/Widget/Common/Materials/UI_HoverFrameReveal_M_Inst] ([1] browsable assets)...
+[2026.02.19-00.27.56:682][479]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/UI/SelectBoon_Screen/Widget/Common/Materials/UI_HoverFrameReveal_M_Inst.UI_HoverFrameReveal_M_Inst]
+[2026.02.19-00.27.56:682][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/SelectBoon_Screen/Widget/Common/Materials/UI_HoverFrameReveal_M_Inst]
+[2026.02.19-00.27.56:694][479]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/SelectBoon_Screen/Widget/Common/Materials/UI_HoverFrameReveal_M_Inst_Auto8
+[2026.02.19-00.27.56:695][479]LogSavePackage: Moving '../../../../../../Users/Gabriel/OneDrive/Desktop/UI Jogos/Meus projetos/Hades2-GitVersion/Hades2/Saved/UI_HoverFrameReveal_M_Inst_Auto80E0FB2E64EE8C91015E789BD6DAF8D45.tmp' to '../../../../../../Users/Gabriel/OneDrive/Desktop/UI Jogos/Meus projetos/Hades2-GitVersion/Hades2/Saved/Autosaves/Game/UI/SelectBoon_Screen/Widget/Common/Materials/UI_HoverFrameReveal_M_Inst_Auto8.uasset'
+[2026.02.19-00.27.56:697][479]LogFileHelpers: Auto-saving content packages took 0.037
+[2026.02.19-00.30.40:605][971]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15978.424805
+[2026.02.19-00.30.41:606][974]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.30.41:606][974]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15979.090820, Update Interval: 318.263489

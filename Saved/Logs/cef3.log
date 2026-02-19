@@ -9,3 +9,8 @@
 [9628:3212:0218/193116.036:ERROR:device_event_log_impl.cc(196)] [19:31:15.922] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
 [9628:3212:0218/202045.758:ERROR:device_event_log_impl.cc(196)] [20:20:45.478] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
 [9628:3212:0218/210545.984:ERROR:device_event_log_impl.cc(196)] [21:05:45.876] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9628:3212:0218/211755.312:ERROR:device_event_log_impl.cc(196)] [21:17:55.011] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9628:3212:0218/211801.992:ERROR:device_event_log_impl.cc(196)] [21:18:01.731] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9628:3212:0218/212417.695:ERROR:device_event_log_impl.cc(196)] [21:24:17.552] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9628:3212:0218/212421.444:ERROR:device_event_log_impl.cc(196)] [21:24:21.403] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9628:3212:0218/212525.104:ERROR:device_event_log_impl.cc(196)] [21:25:24.906] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
