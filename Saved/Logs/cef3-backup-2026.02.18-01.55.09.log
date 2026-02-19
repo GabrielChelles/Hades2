@@ -1,0 +1,12 @@
+[19884:25416:0217/181246.560:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19884:25416:0217/181246.570:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[19884:31464:0217/181246.612:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19884:25416:0217/181246.630:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19884:25416:0217/181249.888:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[17524:3088:0217/181251.182:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B35AF174071CB7F4E771B10714E51091 will be ignored
+[19884:25416:0217/181258.863:ERROR:device_event_log_impl.cc(196)] [18:12:58.853] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[19884:25416:0217/205616.467:ERROR:device_event_log_impl.cc(196)] [20:56:16.317] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[19884:25416:0217/213235.698:ERROR:device_event_log_impl.cc(196)] [21:32:35.466] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[19884:25416:0217/214256.268:ERROR:device_event_log_impl.cc(196)] [21:42:56.089] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[19884:25416:0217/220556.554:ERROR:device_event_log_impl.cc(196)] [22:05:56.401] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[19884:25416:0217/225509.504:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,3 +1,6 @@
-2026/02/15-23:43:40.066 7430 Reusing MANIFEST C:\Users\Gabriel\OneDrive\Desktop\UI Jogos\Meus projetos\Hades 2\Git\Hades2 5.7\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/15-23:43:40.073 7430 Recovering log #4
-2026/02/15-23:43:40.078 7430 Reusing old log C:\Users\Gabriel\OneDrive\Desktop\UI Jogos\Meus projetos\Hades 2\Git\Hades2 5.7\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/02/18-17:04:26.877 5aac Reusing MANIFEST C:\Users\Gabriel\OneDrive\Desktop\UI Jogos\Meus projetos\Hades2-GitVersion\Hades2\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/18-17:04:26.892 5aac Recovering log #6
+2026/02/18-17:04:26.896 5aac Reusing old log C:\Users\Gabriel\OneDrive\Desktop\UI Jogos\Meus projetos\Hades2-GitVersion\Hades2\Saved\webcache_6613\Default\Local Storage\leveldb/000006.log 
+2026/02/18-21:38:43.472 5864 Level-0 table #9: started
+2026/02/18-21:38:43.482 5864 Level-0 table #9: 68873 bytes OK
+2026/02/18-21:38:43.484 5864 Delete type=0 #6
