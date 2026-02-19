@@ -14,3 +14,4 @@
 [9628:3212:0218/212417.695:ERROR:device_event_log_impl.cc(196)] [21:24:17.552] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
 [9628:3212:0218/212421.444:ERROR:device_event_log_impl.cc(196)] [21:24:21.403] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
 [9628:3212:0218/212525.104:ERROR:device_event_log_impl.cc(196)] [21:25:24.906] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9628:3212:0218/213843.622:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
