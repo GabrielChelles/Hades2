@@ -1,8 +1,11 @@
-[32920:30032:0215/234339.874:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[32920:30032:0215/234339.875:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[32920:3588:0215/234339.918:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[32920:30032:0215/234339.958:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[32920:30032:0215/234342.479:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[32856:24172:0215/234343.612:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3E98F43201C2DBCFF3A0D81F8C58E1EE will be ignored
-[32920:30032:0215/234348.508:ERROR:device_event_log_impl.cc(196)] [23:43:48.179] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
-[32920:30032:0215/234606.242:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[9628:3212:0218/170426.598:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9628:3212:0218/170426.610:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[9628:24532:0218/170426.674:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9628:3212:0218/170426.727:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9628:3212:0218/170430.922:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[9628:3212:0218/170436.218:ERROR:device_event_log_impl.cc(196)] [17:04:36.177] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[4888:5228:0218/170436.612:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A1A59AC3543B889EB74B6A1F55CB32F3 will be ignored
+[9628:3212:0218/174340.034:ERROR:device_event_log_impl.cc(196)] [17:43:39.961] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9628:3212:0218/193116.036:ERROR:device_event_log_impl.cc(196)] [19:31:15.922] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9628:3212:0218/202045.758:ERROR:device_event_log_impl.cc(196)] [20:20:45.478] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9628:3212:0218/210545.984:ERROR:device_event_log_impl.cc(196)] [21:05:45.876] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
