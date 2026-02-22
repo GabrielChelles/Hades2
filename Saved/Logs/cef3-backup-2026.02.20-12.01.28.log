@@ -1,0 +1,8 @@
+[24864:18784:0220/083938.498:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24864:18784:0220/083938.510:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[24864:23560:0220/083938.571:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24864:18784:0220/083938.613:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24864:18784:0220/083945.518:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[24864:18784:0220/083949.970:ERROR:device_event_log_impl.cc(196)] [08:39:49.942] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[28260:20028:0220/083950.293:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BECFB5562AA418253B12FACD4DED7EDF will be ignored
+[24864:18784:0220/090128.984:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
