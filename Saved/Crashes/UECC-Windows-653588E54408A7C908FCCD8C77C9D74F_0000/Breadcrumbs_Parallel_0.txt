@@ -1,5 +1,0 @@
-Breadcrumbs 'Parallel'
- - GaussianBlur
- - SlateUI Title = Hades2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)
- - RenderGraphExecute - Slate
- - Frame 249811
